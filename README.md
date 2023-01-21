@@ -1,2 +1,4 @@
 # AfterSales
-This is the public AfterSales repository. Here you can found executables and documentation.
+
+AfterSales is a SaaS you can use to manage AFS files.
+A documentation is yet to come...
